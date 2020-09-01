@@ -9,6 +9,7 @@ namespace TFSTest1
             Console.WriteLine("Hello World!");
             Console.WriteLine("working with git");
             Console.WriteLine("Added second linef or remote local branch");
+            Console.WriteLine("Added third linef or remote local branch");
             Console.Read();
         }
     }
