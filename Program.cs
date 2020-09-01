@@ -8,6 +8,7 @@ namespace TFSTest1
         {
             Console.WriteLine("Hello World!");
             Console.Read();
+            Console.WriteLine("working with git");
         }
     }
 }

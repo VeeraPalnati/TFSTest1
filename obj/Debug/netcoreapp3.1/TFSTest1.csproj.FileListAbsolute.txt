@@ -1,0 +1,13 @@
+C:\Users\Ritisha\source\repos\TFSTest1\bin\Debug\netcoreapp3.1\TFSTest1.exe
+C:\Users\Ritisha\source\repos\TFSTest1\bin\Debug\netcoreapp3.1\TFSTest1.deps.json
+C:\Users\Ritisha\source\repos\TFSTest1\bin\Debug\netcoreapp3.1\TFSTest1.runtimeconfig.json
+C:\Users\Ritisha\source\repos\TFSTest1\bin\Debug\netcoreapp3.1\TFSTest1.runtimeconfig.dev.json
+C:\Users\Ritisha\source\repos\TFSTest1\bin\Debug\netcoreapp3.1\TFSTest1.dll
+C:\Users\Ritisha\source\repos\TFSTest1\bin\Debug\netcoreapp3.1\TFSTest1.pdb
+C:\Users\Ritisha\source\repos\TFSTest1\obj\Debug\netcoreapp3.1\TFSTest1.csprojAssemblyReference.cache
+C:\Users\Ritisha\source\repos\TFSTest1\obj\Debug\netcoreapp3.1\TFSTest1.AssemblyInfoInputs.cache
+C:\Users\Ritisha\source\repos\TFSTest1\obj\Debug\netcoreapp3.1\TFSTest1.AssemblyInfo.cs
+C:\Users\Ritisha\source\repos\TFSTest1\obj\Debug\netcoreapp3.1\TFSTest1.csproj.CoreCompileInputs.cache
+C:\Users\Ritisha\source\repos\TFSTest1\obj\Debug\netcoreapp3.1\TFSTest1.dll
+C:\Users\Ritisha\source\repos\TFSTest1\obj\Debug\netcoreapp3.1\TFSTest1.pdb
+C:\Users\Ritisha\source\repos\TFSTest1\obj\Debug\netcoreapp3.1\TFSTest1.genruntimeconfig.cache
